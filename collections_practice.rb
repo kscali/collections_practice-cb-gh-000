@@ -48,7 +48,6 @@ def add_s(array)
     word << "s"
     array[1] = "feet"
   end 
-end 
 end   
   
   
